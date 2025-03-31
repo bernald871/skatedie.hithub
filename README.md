@@ -3,62 +3,66 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>El Mundo del Skate</title>
+  <title>Microondas Solar y Ecológico</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>Bienvenidos al Mundo del Skate</h1>
+    <h1>Microondas Solar con Batería Recargable</h1>
     <nav>
       <ul>
         <li><a href="#inicio">Inicio</a></li>
-        <li><a href="#historia">Historia</a></li>
-        <li><a href="#tipos">Tipos de Skate</a></li>
-        <li><a href="#trucos">Trucos</a></li>
-        <li><a href="#tienda">Tienda</a></li>
+        <li><a href="#caracteristicas">Características</a></li>
+        <li><a href="#beneficios">Beneficios</a></li>
+        <li><a href="#como-funciona">¿Cómo Funciona?</a></li>
+        <li><a href="#comprar">Comprar</a></li>
         <li><a href="#contacto">Contacto</a></li>
       </ul>
     </nav>
   </header>
 
   <section id="inicio">
-    <h2>¿Qué es el Skate?</h2>
-    <p>El skateboarding es un deporte que consiste en deslizarse sobre una patineta o skate. Es una disciplina que ha sido popular por décadas y se ha convertido en un estilo de vida para muchas personas.</p>
+    <h2>La Revolución en la Cocina Ecológica</h2>
+    <p>Presentamos el microondas más innovador del mercado, un dispositivo que combina energía solar y batería recargable para una experiencia de cocción más ecológica y eficiente. ¡Dile adiós a las facturas de electricidad y disfruta de la cocina verde!</p>
   </section>
 
-  <section id="historia">
-    <h2>Historia del Skate</h2>
-    <p>El skateboarding nació en la década de 1950 en California, cuando los surfistas decidieron simular el surf en tierra firme. Con el tiempo, se fue desarrollando como una disciplina propia, con sus propias maniobras y cultura.</p>
-  </section>
-
-  <section id="tipos">
-    <h2>Tipos de Skate</h2>
+  <section id="caracteristicas">
+    <h2>Características del Microondas Solar</h2>
     <ul>
-      <li><strong>Skateboard clásico:</strong> Ideal para hacer trucos en el asfalto y en rampas.</li>
-      <li><strong>Longboard:</strong> Más largo y estable, ideal para descender colinas y hacer paseos largos.</li>
-      <li><strong>Cruiser:</strong> Similar al longboard, pero más pequeño y maniobrable.</li>
+      <li><strong>Energía Solar:</strong> Carga automáticamente a través de un panel solar integrado.</li>
+      <li><strong>Batería Recargable:</strong> Almacena energía para utilizarlo en cualquier momento, incluso cuando no haya sol.</li>
+      <li><strong>Alta Eficiencia:</strong> Tecnología avanzada para calentar rápidamente los alimentos, sin perder potencia.</li>
+      <li><strong>Eco-friendly:</strong> Reduce tu huella de carbono y usa energías renovables en tu cocina.</li>
+      <li><strong>Diseño Compacto:</strong> Se adapta fácilmente a cualquier cocina, ahorrando espacio.</li>
     </ul>
   </section>
 
-  <section id="trucos">
-    <h2>Trucos de Skate</h2>
-    <p>Algunos de los trucos más populares son:</p>
+  <section id="beneficios">
+    <h2>Beneficios</h2>
+    <p>Con el microondas solar con batería recargable, disfrutas de múltiples ventajas:</p>
     <ul>
-      <li><strong>Ollie:</strong> El truco básico de saltar con el skate.</li>
-      <li><strong>Kickflip:</strong> Giro del skateboard mientras el patinador está en el aire.</li>
-      <li><strong>Heelflip:</strong> Similar al Kickflip, pero el giro es controlado con el talón del pie.</li>
+      <li><strong>Ahorro de Energía:</strong> Reduce el consumo de electricidad de la red y utiliza energía solar gratuita.</li>
+      <li><strong>Sostenibilidad:</strong> Ideal para hogares, campamentos y zonas rurales sin acceso estable a la electricidad.</li>
+      <li><strong>Independencia Energética:</strong> No dependes de la red eléctrica para calentar tu comida.</li>
+      <li><strong>Fácil de Usar:</strong> Usa tu microondas como cualquier otro, pero con la ventaja de la energía limpia.</li>
     </ul>
   </section>
 
-  <section id="tienda">
-    <h2>Productos de Skate</h2>
-    <p>Visita nuestra tienda para comprar tablas, ruedas, rodamientos y todo lo que necesitas para patinar.</p>
-    <button><a href="tienda.html">Ver Tienda</a></button>
+  <section id="como-funciona">
+    <h2>¿Cómo Funciona?</h2>
+    <p>Este microondas está equipado con un panel solar que convierte la energía solar en electricidad. La energía captada por el panel se almacena en una batería recargable interna. Cuando necesitas calentar algo, simplemente enciendes el microondas como de costumbre, utilizando la energía almacenada en la batería o directamente del sol, dependiendo de las condiciones de carga.</p>
+    <img src="diagrama-microondas-solar.jpg" alt="Diagrama de funcionamiento del microondas solar" />
+  </section>
+
+  <section id="comprar">
+    <h2>Compra Ahora</h2>
+    <p>Adquiere tu propio microondas solar con batería recargable y empieza a ahorrar energía hoy mismo. ¡Haz tu pedido ahora y recibe un descuento especial!</p>
+    <button><a href="tienda.html">Comprar</a></button>
   </section>
 
   <section id="contacto">
     <h2>Contacto</h2>
-    <p>Si tienes preguntas o deseas saber más, no dudes en contactarnos.</p>
+    <p>¿Tienes dudas o necesitas más información? Contáctanos y estaremos encantados de ayudarte.</p>
     <form action="/submit-form" method="POST">
       <label for="name">Nombre:</label>
       <input type="text" id="name" name="name">
@@ -74,7 +78,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 El Mundo del Skate. Todos los derechos reservados.</p>
+    <p>&copy; 2025 Microondas Solar. Todos los derechos reservados.</p>
   </footer>
 </body>
 </html>
